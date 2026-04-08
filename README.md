@@ -1,4 +1,4 @@
-# DockerImages
+# Docker Images Repo
 Some images created by me for Docker on WSL2
 
 # Installing Mongo DB with Replica Sets
